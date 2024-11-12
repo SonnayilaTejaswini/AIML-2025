@@ -4,6 +4,8 @@ Lab 1.10.24:https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/LAB_1_01_2
 
 LAB 2 - https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AIML_lab_2.ipynb
 
+lab 3-https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AIML_LAB_3.ipynb
+
 LAB 4-https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AIML_LAB_4.ipynb
 
 LAB 5 - https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/LAB%205%20AIML
