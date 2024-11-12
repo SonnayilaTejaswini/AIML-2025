@@ -12,6 +12,6 @@ LAB 6 - https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/KNN_LAB_6.ipyn
 
 LAB 7- https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AIML_LAB_7.ipynb
 
-Lab 8-
+Lab 8- https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AIML_LAB_08.ipynb
 
 LAB 9-https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AI%26ML_LAB_9.ipynb
