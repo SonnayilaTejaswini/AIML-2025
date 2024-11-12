@@ -15,3 +15,5 @@ LAB 7- https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AIML_LAB_7.ipyn
 Lab 8- https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AIML_LAB_08.ipynb
 
 LAB 9-https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AI%26ML_LAB_9.ipynb
+
+LAB 10-https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/lab_10.ipynb
