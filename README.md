@@ -19,3 +19,5 @@ Lab 8- https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AIML_LAB_08.ipy
 LAB 9-https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/AI%26ML_LAB_9.ipynb
 
 LAB 10-https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/lab_10.ipynb
+
+LAB EXAMINATION 1 -https://github.com/SonnayilaTejaswini/AIML-2025/blob/main/LAB%20EXAMINATION%201-19.11.2024
